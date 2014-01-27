@@ -1,8 +1,6 @@
 # Android Video Player Plugin for Appgyver Steroids #
 
-Adapt [macdonst VideoPlayer Plugin] (https://github.com/macdonst/VideoPlayer) to [Plugman 3] (https://github.com/apache/cordova-plugman/)
-
-specification to work on Android Appgyver Steroids Application.
+Adapt [macdonst VideoPlayer Plugin] (https://github.com/macdonst/VideoPlayer) to [Plugman 3] (https://github.com/apache/cordova-plugman/) specification to work on Android Appgyver Steroids Application.
 
 
 ## Add the plugin to the  Build Service ##
