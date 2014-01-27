@@ -6,9 +6,11 @@ The video player allows you to display videos from your Steroids application.
 
 ## Add the plugin to the  Build Service ##
 
+<pre>
 [
   {"source":"https://github.com/egatjens/steroids-videoplayer.git"},
 ]
+</pre>
 
 Reference: [Custom plugins for your app] (http://guides.appgyver.com/steroids/guides/cloud_services/plugin-config/)
 
