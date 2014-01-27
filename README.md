@@ -1,6 +1,6 @@
 # Android Video Player Plugin for Appgyver Steroids #
 
-Adapt [macdonst VideoPlayer Plugin] (https://github.com/macdonst/VideoPlayer) to work on an Android Appgyver Steroids Application.
+Adapt [macdonst VideoPlayer Plugin] (https://github.com/macdonst/VideoPlayer) to work on Android Appgyver Steroids Application.
 
 The video player allows you to display videos from your Steroids application.
 
